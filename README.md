@@ -1,22 +1,24 @@
 ## Hi there 👋
 
-### Operations & Documentation Professional 🔍
+### Cybersecurity, RMF & GRC Portfolio | Operations & Documentation Professional 🔍
 
-I specialize in investigating complex problems and creating high-clarity resources to solve them. I'm passionate about organizational efficiency and building "single sources of truth."
+I specialize in creating clear, structured documentation and translating complex problems into organized, actionable resources. My current focus is cybersecurity, RMF, GRC, continuous monitoring, and control-based documentation that supports audit readiness and remediation tracking.
 
 ---
 
 ## 🛠️ What I'm Up To
-- **Learning:** Deep-diving into **Cybersecurity** frameworks and network integrity.
-- **Projects:** Developing a professional knowledge base for IT and operational workflows.
-- **Interests:** Exploring the intersection of AI productivity and process transformation.
+- **Learning:** Building deeper knowledge in cybersecurity frameworks, RMF concepts, and network foundations.
+- **Projects:** Developing a GitHub portfolio with mock RMF, POA&M, and continous monitoring artifacts.
+- **Interests:** Exploring how strong documentation, governance, and process design improve security operations.
 
 ### 💻 Tech & Frameworks
 ![ITIL](https://img.shields.io/badge/ITIL_4-002E5F?style=for-the-badge&logo=itil&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=strapi&logoColor=white)
+![RMF](https://img.shields.io/badge/RMF-002E5F?style=for-the-badge&logo=itil&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![GRC](https://img.shields.io/badge/GRC-002E5F?style=for-the-badge&logo=itil&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🤝 Let's Connect
-- **Ask me about:** Root-cause analysis, documentation best practices, or my latest cybersecurity findings.
-- **Fun Fact:** I enjoy translating "technical chaos" into clear, manageable guides.
+- **Ask me about:** Documentation strategy, process improvement, cybersecurity learning, and portfolio development.
+- **Fun Fact:** I enjoy turning technical complexity into clear, usable guidance.
