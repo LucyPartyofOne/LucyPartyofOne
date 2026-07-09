@@ -1,47 +1,46 @@
 # Juleonna Chandler
-**Security-Minded Operational Risk & Technical Program Leader** *Governance, Risk, and Compliance (GRC) | Enterprise Portfolio Delivery*
-
-Experienced, policy-driven leader with 15+ years of experience directing large-scale, enterprise digital product execution within highly regulated environments. Expert at translating complex regulatory frameworks into scalable operational controls, establishing audit-ready compliance postures, and driving cross-functional risk remediation. Actively aligning extensive operational governance expertise with technical foundations in cybersecurity and information assurance to protect enterprise digital assets.
-
----
-
-## 💻 Cybersecurity & Tech Risk Projects
-
-*Case studies detailing practical application of industry-standard security frameworks to protect enterprise infrastructure.*
-
-### 🎯 [Project 1: NIST SP 800-53 Rev. 5 Risk Assessment & Mitigation Architecture](./nist-risk-assessment/)
-* **Focus Domain:** Governance, Risk, and Compliance (GRC) & Security Control Alignment
-* **Overview:** A simulated risk profiling and control-mapping study evaluating an enterprise migrating a legacy high-stakes operational workflow over to a cloud-based digital assessment architecture serving **4 million end-users** across **26K+ distributed partner endpoints**.
-* **Core Frameworks applied:** NIST SP 800-53 Rev. 5 (Access Control [AC], System and Information Integrity [SI], Awareness and Training [AT], and Contingency Planning [CP] control families).
-* **Key Deliverables:** Executed a comprehensive gap analysis, constructed a System Security Plan (SSP) baseline mapping template, built a repeatable risk-rating matrix, and designed continuous control monitoring playbooks to eliminate systemic workflow exceptions.
-
-### 📘 [Project 2: Enterprise Security Incident Response & Governance Runbook](./incident-response/)
-* **Focus Domain:** Technical Risk Governance, Business Continuity, & Incident Lifecycle Management
-* **Overview:** A formal corporate incident handling blueprint structured to protect enterprise assets during a large-scale ransomware outbreak and potential multi-jurisdictional data exfiltration scenario.
-* **Core Frameworks Applied:** NIST SP 800-61 Rev. 2 (Computer Security Incident Handling Guide), ISO/IEC 27001, and global data privacy guardrails.
-* **Key Deliverables:** Formulated an incident lifecycle governance structure spanning Preparation through Post-Incident Lessons Learned. Designed an automated RACI matrix for cross-functional response alignment (Legal, Finance, Tech, Operations), drafted root-cause analysis (RCA) reporting standards, and engineered evidence-management guidelines for audit readiness.
+## Security-Minded Operational Risk & Technical Program Leader
+**Governance, Risk, and Compliance (GRC) | Enterprise Portfolio Delivery | NIST RMF Specialist**
 
 ---
 
-## 🛠️ Technical Domain Exposure & Certifications
+### 🏛️ Executive Profile
+Experienced, policy-driven leader with 15+ years of success directing large-scale, enterprise digital product execution within highly regulated environments. I specialize in translating complex regulatory frameworks into scalable operational controls, establishing audit-ready compliance postures, and driving cross-functional risk remediation. I bridge the gap between technical infrastructure and senior executive strategy, ensuring that digital delivery is not only rapid but inherently resilient.
 
-### Frameworks & Governance
-![NIST SP 800-53](https://img.shields.io/badge/NIST_SP_800--53-Framework-0052CC?style=flat-square&logo=governance&logoColor=white)
-![NIST SP 800-61](https://img.shields.io/badge/NIST_SP_800--61-Incident_Response-D97706?style=flat-square&logo=security&logoColor=white)
-![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC_27001-Compliance-16A34A?style=flat-square&logo=compliance&logoColor=white)
-![ITIL 4 SVS](https://img.shields.io/badge/ITIL_4-Service_Value_System-512BD4?style=flat-square&logo=itil&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile--Scrum-Portfolio_Delivery-20232A?style=flat-square&logo=scrumalliance&logoColor=white)
+---
 
-### Core Professional Credentials
-![ITIL 4 Foundation](https://img.shields.io/badge/ITIL_4-Certified-512BD4?style=flat-square)
-![CompTIA Project+](https://img.shields.io/badge/CompTIA-Project%2B_Certified-FF6000?style=flat-square&logo=comptia&logoColor=white)
-![Certified Scrum Master](https://img.shields.io/badge/Scrum_Alliance-CSM-0284C7?style=flat-square&logo=scrumalliance&logoColor=white)
-![Certified Scrum Product Owner](https://img.shields.io/badge/Scrum_Alliance-CSPO-0284C7?style=flat-square&logo=scrumalliance&logoColor=white)
+### 🛡️ Enterprise GRC & RMF Architecture Portfolio
+*A sanitized, end-to-end case study registry demonstrating practical application of the NIST Risk Management Framework (RMF).*
 
-### Technical Systems Foundations
-![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B_Certified-FF6000?style=flat-square&logo=comptia&logoColor=white)
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B_Certified-FF6000?style=flat-square&logo=comptia&logoColor=white)
+The primary repository, [**cybersecurity-portfolio**](https://github.com/LucyPartyofOne/cybersecurity-portfolio), is structured as an interlocking lifecycle model for a cloud-hosted **Records Management Support Platform (RMSP)**. This system serves 4M+ active users and 26K+ distributed endpoints.
 
-### Target Focus Loops (In Progress)
-![CompTIA Security+ Candidate](https://img.shields.io/badge/CompTIA-Security%2B_(Candidate)-FF6000?style=flat-square&logo=comptia&logoColor=white)
-![B.S. Cybersecurity WGU](https://img.shields.io/badge/WGU-B.S._Cybersecurity_&_Information_Assurance-002F6C?style=flat-square)
+#### 📂 [Enterprise SSP Authorization Brief](./cybersecurity-portfolio/enterprise-ssp-authorization-brief/)
+* **Strategic Focus:** FIPS 199 Categorization & NIST SP 800-53 Control Matrix.
+* **Why it matters:** Proves the ability to define security boundaries and document control implementations from the ground up for a high-impact system.
+
+#### 📂 [Active Risk Remediation Ledger](./cybersecurity-portfolio/active-risk-remediation-ledger/)
+* **Strategic Focus:** POA&M Lifecycle Management & Governance Workflows.
+* **Why it matters:** Demonstrates an authoritative approach to managing systemic control variances, engineering accountability, and third-party audit verification gates.
+
+#### 📂 [ISCM Governance Playbook](./cybersecurity-portfolio/iscm-governance-playbook/)
+* **Strategic Focus:** Information Security Continuous Monitoring (ISCM) & Executive Escalation.
+* **Why it matters:** Showcases operational discipline in maintaining a long-term "audit-ready" posture through defined review cadences and executive reporting paths.
+
+#### 📂 [Infrastructure Zone Mapping](./cybersecurity-portfolio/infrastructure-zone-mapping/)
+* **Strategic Focus:** Technical Risk Literacy & Network Segmentation Architecture.
+* **Why it matters:** Confirms deep technical literacy—bridging governance policy to Layer 3 infrastructure hardening, subnet allocations, and router-level security enforcement.
+
+---
+
+### 🛠️ Technical Competency Matrix
+
+* **Frameworks & Governance:** NIST RMF (SP 800-37/800-53 Rev. 5), FISMA, FedRAMP, ISO/IEC 27001, ITIL 4.
+* **Risk & Remediation:** Continuous Monitoring (ISCM), POA&M Lifecycle Management, Root-Cause Analysis (RCA), Audit Evidence Indexing.
+* **Infrastructure Literacy:** Network Segmentation (CIDR/Subnetting), Zero-Trust Architecture, Perimeter Boundary Protection (SC-7), Cisco IOS.
+* **Leadership Alignment:** Cross-Functional RACI Design, Executive Reporting, Vendor Compliance, Operational Readiness Engineering.
+
+---
+
+### 🚀 Let's Connect
+I am currently bridging my 15+ years of operational governance into the Cybersecurity and Information Assurance sector. 
+* [LinkedIn Profile](https://linkedin.com/in/juleonna) | [Resume Request](mailto:juleonna@proton.me)
