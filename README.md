@@ -28,7 +28,7 @@ The primary repository, [**cybersecurity-portfolio**](https://github.com/LucyPar
 
 #### 📂 [Infrastructure Zone Mapping](./cybersecurity-portfolio/infrastructure-zone-mapping/)
 * **Strategic Focus:** Technical Risk Literacy & Network Segmentation Architecture.
-* **Why it matters:** Confirms deep technical literacy—bridging governance policy to Layer 3 infrastructure hardening, subnet allocations, and router-level security enforcement.
+* **Why it matters:** Confirms deep technical literacy; bridging governance policy to Layer 3 infrastructure hardening, subnet allocations, and router-level security enforcement.
 
 ---
 
